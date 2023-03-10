@@ -1,0 +1,4 @@
+D:\Asp.Net\Calculator\Calculator\bin\Calculator.dll
+D:\Asp.Net\Calculator\Calculator\bin\Calculator.pdb
+D:\Asp.Net\Calculator\Calculator\obj\Debug\Calculator.dll
+D:\Asp.Net\Calculator\Calculator\obj\Debug\Calculator.pdb
