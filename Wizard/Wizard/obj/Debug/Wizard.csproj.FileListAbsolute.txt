@@ -1,0 +1,4 @@
+D:\Asp.Net\Wizard\Wizard\bin\Wizard.dll
+D:\Asp.Net\Wizard\Wizard\bin\Wizard.pdb
+D:\Asp.Net\Wizard\Wizard\obj\Debug\Wizard.dll
+D:\Asp.Net\Wizard\Wizard\obj\Debug\Wizard.pdb
